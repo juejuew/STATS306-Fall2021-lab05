@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
+title: Introduction to Statistical Computing (STATS 306), Fall 2021
+description: Welcome to juejue’s lab page! Here, you’ll find everything you need for our weekly lab.
+github:
+  is_project_page: false
