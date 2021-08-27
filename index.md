@@ -12,7 +12,7 @@ Once you have yours installed,
     *windows* -- start up Anaconda Prompt
     *linux/macOS* -- start up your terminal
 
-You need to install IRkernel into your jupyter notebook, use the instruction in https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/. 
+You need to install IRkernel into your jupyter notebook, use the instruction in <https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/>. 
 
 You can startup your notebook by typing 
 
