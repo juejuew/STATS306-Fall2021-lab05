@@ -1,7 +1,7 @@
 # STATS 306 Lab 05
 
 **GSI:** Juejue Wang (juejuew@umich.edu)\
-**Lab day/time:** Wednesday, 8:30am-10:00am
+**Lab day/time:** Wednesday, 8:30am-10:00am \
 **Office hours day/time:** Monday, 9:00-10:00 am
 
 # Lab Schedule and Materials
