@@ -4,14 +4,10 @@
 **Lab day/time:** Wednesday, 8:30am-10:00am \
 **Office hours day/time:** Monday, 9:00-10:00 am
 
-# Installing Jupyter Notebook
+## Installing Jupyter Notebook
 ...
 
-**GSI:** Juejue Wang (juejuew@umich.edu)\
-**Lab day/time:** Wednesday, 8:30am-10:00am \
-**Office hours day/time:** Monday, 9:00-10:00 am
-
-# Lab Schedule and Materials
+## Lab Schedule and Materials
 
 Date | Lab | Solution
 --- | --- | ---
