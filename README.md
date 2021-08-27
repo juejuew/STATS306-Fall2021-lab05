@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction to Statistical Computing (STATS 306), Fall 2021
 
-You can use the [editor on GitHub](https://github.com/juejuew/juejuew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to juejue’s lab page! Here, you’ll find everything you need for our weekly lab.
 
 ### Markdown
 
