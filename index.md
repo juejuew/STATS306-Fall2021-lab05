@@ -4,20 +4,6 @@
 **Lab day/time:** Wednesday, 8:30am-10:00am \
 **Office hours day/time:** Monday, 9:00-10:00 am
 
-## Installing Jupyter Notebook
-First of all, let's get started with the Jupyter notebook. Regardless of the OS you are using, go onto Anaconda homepage and download ANACONDA python 3 <https://www.anaconda.com/download/>. 
-
-Once you have yours installed,
-
-    *windows* -- start up Anaconda Prompt
-    *linux/macOS* -- start up your terminal
-
-You need to install IRkernel into your jupyter notebook, use the instruction in <https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/>. 
-
-You can startup your notebook by typing 
-
-    jupyter notebook
-
 ## Lab Schedule and Materials
 
 Date | Lab | Solution
