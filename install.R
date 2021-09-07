@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("lme4") 
+install.packages("matlab")
+install.packages("ISLR2")
+install.packages("maps")
