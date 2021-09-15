@@ -9,7 +9,7 @@
 Date | Lab | Solution
 --- | --- | ---
 **September 8** | <a href="stats306_lab1.ipynb">Download Lab 1</a> | <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a>
-**September 15** | <a href="stats306_lab2.ipynb">Download Lab 2</a> | Download Lab 2 Solution
+**September 15** | <a href="stats306_lab2.ipynb">Download Lab 2</a> | <a href="stats306_lab2_solution.ipynb">Download Lab 2 Solution</a>
 **September 22** | Download Lab 3 | Download Lab 3 Solution
 **September 29** | Download Lab 4 | Download Lab 4 Solution
 **October 6** | Download Lab 5 | Download Lab 5 Solution
