@@ -16,8 +16,8 @@ Date | Lab | Solution
 **October 13** | Midterm break | Midterm break 
 **October 20** | Midterm break | Midterm break
 **October 27** | <a href="stats306_lab6.ipynb">Download Lab 6</a> | <a href="stats306_lab6.ipynb">Download Lab 6 Solution</a>
-**November 3** | Download Lab 7 | Download Lab 7 Solution
-**November 10** | Download Lab 8 | Download Lab 8 Solution
+**November 3 (final project info)** | Download Lab 7 | Download Lab 7 Solution
+**November 10 (final project info)** | Download Lab 8 | Download Lab 8 Solution
 **November 17** | Download Lab 9 | Download Lab 9 Solution
 **November 24** | Thanksgiving break | Thanksgiving break
 **December 1** | Download Lab 10 | Download Lab 10 Solution
