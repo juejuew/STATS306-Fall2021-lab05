@@ -19,5 +19,5 @@ Date | Lab | Solution
 **November 3** | Download Lab 7 | Download Lab 7 Solution
 **November 10** | Download Lab 8 | Download Lab 8 Solution
 **November 17** | Download Lab 9 | Download Lab 9 Solution
-**November 24** | Download Lab 10 | Download Lab 10 Solution
-**December 1** | Download Lab 11 | Download Lab 11 Solution
+**November 24** | Thanksgiving break | Thanksgiving break
+**December 1** | Download Lab 10 | Download Lab 10 Solution
