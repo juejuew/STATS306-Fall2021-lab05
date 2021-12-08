@@ -20,5 +20,5 @@ Date | Lab | Solution
 **November 10** | <a href="stats306_lab8.ipynb">Download Lab 8</a> | <a href="stats306_lab8.ipynb">Download Lab 8 Solution</a> 
 **November 17** | <a href="stats306_lab9.ipynb">Download Lab 9</a> | <a href="stats306_lab9.ipynb">Download Lab 9 Solution</a>
 **November 24** | Thanksgiving break | Thanksgiving break
-**December 1** | <a href="stats306_lab10.ipynb">Download Lab 10</a> | Download Lab 10 Solution
+**December 1** | <a href="stats306_lab10.ipynb">Download Lab 10</a> | <a href="stats306_lab10.ipynb">Download Lab 10 Solution</a>
 **December 8** | Office Hour for the final project | Office Hour for the final project
